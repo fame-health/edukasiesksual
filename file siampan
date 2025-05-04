@@ -1,0 +1,18 @@
+					//<a href="index.html"><img src="img/logo.pn" alt="#"></a>//
+
+
+
+                    <div class="col-lg-4 col-md-6 col-12">
+						<!-- Single Blog -->
+						<div class="single-news">
+							<div class="news-head">
+								<img src="img/blog2.jpg" alt="#">
+							</div>
+							<div class="news-body">
+								<div class="news-content">
+									<div class="date">15 Jul, 2020</div>
+									<h2><a href="blog.html">Populasi LGBT Terkena Dampak Ketimpangan Kesehatan</a></h2>
+									<p class="text">Populasi lesbian, gay, biseksual, dan transgender (LGBT) dihadapkan pada tantangan serius dalam sistem layanan kesehatan akibat diskriminasi, stigma sosial, serta kurangnya pendekatan berbasis bukti dan kebijakan yang inklusif. Ketimpangan ini tidak hanya berdampak pada kesehatan fisik, tetapi juga .</p>
+								</div>
+							</div>
+						</div>
